@@ -17,8 +17,8 @@
   - Network segmentation
   - Firewall rules
   - DNS configuration
-
- ## AWS Cloud Security Lab
+ 
+ ### AWS Cloud Security Lab
  - VPC with multiple EC2 instances
  - Splunk Enterprise depployment
 
