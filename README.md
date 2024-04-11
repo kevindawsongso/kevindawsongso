@@ -1,7 +1,6 @@
-# Hi, I'm Kevin! 👋
-!GitHub !LinkedIn
+# Hi, I'm Kevin Dawson Cyber ! 👋
 
-## 👨‍💻 Cybersecurity and Cloud Projects:
+## 👨‍💻 Cyber Security Projects:
 
 ### Active Directory Home Lab
 - Set up an Active Directory environment for learning and testing.
@@ -13,14 +12,21 @@
 - Integrated Security Onion with Tenable Nessus for enhanced network security.
 
 ### PF Sense Firewall/Router Virtual Appliance Configuration
-- Configured a PF Sense firewall/router virtual appliance.
-  - Network segmentation
-  - Firewall rules
-  - DNS configuration
+- Network segmentation
+- Firewall rules
+- DNS configuration
+
+ ## 👨‍💻 Cloud Projects:
  
  ### AWS Cloud Security Lab
  - VPC with multiple EC2 instances
  - Splunk Enterprise depployment
+ - 
+### AWS Connect Call Center
+- placeholder
 
+### Virtual Private Gateway - Home VPN Setup
+- placeholder
+- 
 ## 🤳 Connect with me:
-!LinkedIn (linkedin.in/kevin-dawson-gso)
+LinkedIn ([linkedin.in/kevin-dawson-gso](https://www.linkedin.com/in/kevin-dawson-gso/))
