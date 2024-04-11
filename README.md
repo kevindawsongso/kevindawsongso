@@ -1,20 +1,26 @@
-<h1>Hi, I'm Kevin! <br/><a href="https://github.com/theeveningsun"></a> <a href="https://www.linkedin.com/in/kevi-ndawson-gso/">Cybersecurity Professional</a>
+# Hi, I'm Kevin! 👋
+!GitHub !LinkedIn
 
-<h2>👨‍💻 Cybersecurity and Cloud Projects:</h2>
+## 👨‍💻 Cybersecurity and Cloud Projects:
 
-- <b>Active Directory Home Lab</b>
-  - [Active Directory enviornment](placeholder url)
+### Active Directory Home Lab
+- Set up an Active Directory environment for learning and testing.
 
-- <b>Splunk Enterprise deployment with universal forwarders</b>
-  - [Splunk Enterpriise deploymetn with universal forwarders](placeholder url)
-  - 
-  - <b> Security Onion and Tenable Nessus intergration 
-  - [Security Onion and Tenable Nessus integration](placeholder url)
-  
-- <b>C# (PF Sense Firewall/Router virtual applicane configuration)</b>
-  - [Network segmentation] 
-  - [Firewall rules placeholder url)
-  - [DNS configuration)
+### Splunk Enterprise Deployment with Universal Forwarders
+- Deployed Splunk Enterprise along with universal forwarders for log analysis.
 
-<h2> 🤳 Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/kevin-dawson-gso
+### Security Onion and Tenable Nessus Integration
+- Integrated Security Onion with Tenable Nessus for enhanced network security.
+
+### PF Sense Firewall/Router Virtual Appliance Configuration
+- Configured a PF Sense firewall/router virtual appliance.
+  - Network segmentation
+  - Firewall rules
+  - DNS configuration
+
+ ## AWS Cloud Security Lab
+ - VPC with multiple EC2 instances
+ - Splunk Enterprise depployment
+
+## 🤳 Connect with me:
+!LinkedIn (linkedin.in/kevin-dawson-gso)
