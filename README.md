@@ -1,4 +1,4 @@
-# Hi, I'm Kevin Dawson Cyber ! 👋
+# Hi, I'm Kevin Dawson Cyber Security Professional! 👋
 
 ## 👨‍💻 Cyber Security Projects:
 
@@ -21,12 +21,17 @@
  ### AWS Cloud Security Lab
  - VPC with multiple EC2 instances
  - Splunk Enterprise depployment
- - 
+   
 ### AWS Connect Call Center
 - placeholder
-
+  
 ### Virtual Private Gateway - Home VPN Setup
 - placeholder
-- 
-## 🤳 Connect with me:
+
+## Certifications 📖
+- CompTIA Security +
+- ISC2 Certified in Cyber Security
+- CompTIA A +
+
+### 🤳 Connect with me:
 LinkedIn ([linkedin.in/kevin-dawson-gso](https://www.linkedin.com/in/kevin-dawson-gso/))
