@@ -49,3 +49,4 @@
 
 ### 🤳 Connect with me:
 LinkedIn ([linkedin.in/kevin-dawson-gso](https://www.linkedin.com/in/kevin-dawson-gso/))
+Instargram ([instagram.com/reachkevindawson](https://www.instragram.com/reachkevindawson))
