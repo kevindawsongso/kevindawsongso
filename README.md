@@ -1,27 +1,21 @@
-# Hi, I'm Kevin Dawson Cyber Security Professional! Below are brief summaries of current labs with more updates to come soon. 👋
+# Hi, I'm Kevin Dawson Cyber Security Professional! Below are brief summaries of current labs, tinkering, and coding with more updates to come soon. 👋
 
-## 👨‍💻 Cyber Security Projects:
-
-### Splunk Enterprise Deployment with Universal Forwarders
-- Deployed Splunk Enterprise along with universal forwarders for log analysis.
-- Ingesting Security, Application, System, and Sysmon events
-- TBA configuring windows network events to forward to splunk indexer
-
-### Security Onion and Tenable Nessus Integration
-- Nessus fully deployed to scan for Top 10, PCI-DSS, and CISA vulnerabilites
-- Archiving reports for vulnerability scans with visualizations
-  
-### PF Sense Firewall/Router Virtual Appliance Configuration
-- Network segmentation
-- Firewall rules
-- DNS configuration
-- ACLs set up to allow traffic to and from subnets while isolating certain subnets from public internet
-
+## 👨‍💻 VMWare Workstation Cyber Sercurity Lab
+### Objective - Design, build, and adminster a working cyber security lab
+### Enviornment
+- Multi OS enviornment with Windows, Windows Server, Ubunutu Server, and Kali Linux
+- Deployed metasploitable 2 instance to practice red teaming on an an intentionally vulnerable machine
+### Security Tools
+- SIEM - Spunk with deployed universal forwarders
+- Vulnerability Scanning - Tenable Nessus
+- Intrusion detection/Prevention - Security Onion (troubleshooting at the moment)
+### Networking
+- PF Sense Firewall and router (finally working!)
+- Windows Defender Advanced Firewall
+- AWS VPC with VPN gateway (in progress)
  ## 👨‍💻 Cloud Projects:
- 
- ### AWS Cloud Security Lab
+### AWS Cloud Security Lab
  - ON HOLD
-   
 ### AWS Connect Call Center
 - Created AWS Connect call center
 - Directories and call agent dashboards setup to mimick enterprise enviornment
