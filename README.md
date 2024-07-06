@@ -13,7 +13,7 @@ Design, build, and administer a comprehensive cybersecurity lab environment.
 ### Security Tools
 - **SIEM:** Splunk with deployed universal forwarders.
 - **Vulnerability Scanning:** Tenable Nessus.
-- **Intrusion Detection/Prevention:** Security Onion (currently troubleshooting).
+- **Intrusion Detection/Prevention:** Suricata.
 
 ### Networking
 - **Firewall/Router:** pfSense (finally working!).
