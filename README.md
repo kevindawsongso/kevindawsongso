@@ -20,6 +20,9 @@ Design, build, and administer a comprehensive cybersecurity lab environment.
 - **Windows Defender Advanced Firewall.**
 - **AWS VPC with VPN Gateway:** In progress.
 
+### Repository
+- [VMWare Workstation Cyber Security Lab](https://github.com/kevindawsongso/on-prem-cyber-lab)
+
 ## 👨‍💻 AWS Cloud Cybersecurity Home Lab
 ### Objective
 Develop a cloud-based cybersecurity lab using AWS services to enhance skills in cloud security.
@@ -39,11 +42,16 @@ Develop a cloud-based cybersecurity lab using AWS services to enhance skills in 
 - CloudWatch
 - IAM
 - CloudTrail
+- Lambda
 - S3
 - Billing and Cost Management
 - IAM Identity Center
+- Amazon EventBridge
 - Guard Duty
 - Detective
+
+### Repository
+- [AWS Cloud Cybersecurity Home Lab](https://github.com/kevindawsongso/aws-cyber-lab)
 
 ## 👨‍💻 Other Cloud Projects
 ### AWS Connect Call Center
