@@ -42,11 +42,9 @@ Develop a cloud-based cybersecurity lab using AWS services to enhance skills in 
 - CloudWatch
 - IAM
 - CloudTrail
-- Lambda
 - S3
 - Billing and Cost Management
 - IAM Identity Center
-- Amazon EventBridge
 - Guard Duty
 - Detective
 
