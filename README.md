@@ -15,8 +15,7 @@ The objective of this cybersecurity homelab project is to design, build, and adm
 - [AWS Cloud Cybersecurity Home Lab](https://github.com/kevindawsongso/aws-cyber-lab)
 
 ### Objective
-The objective of this AWS Cyber Security Lab is to design, build, and manage a cloud-based environment to develop and enhance skills in cloud security, incident response, threat detection, cloud architecture and cloud engineering. This lab serves as a platform for practicing real-world scenarios, testing security tools, and gaining hands-on experience with various AWS services and cybersecurity techniques, including EC2, Security Hub, CloudWatch, IAM, CloudTrail, Lambda, S3, GuardDuty, and AWS Detective. Through this lab, I aim to demonstrate proficiency in securing cloud infrastructure, detecting and mitigating threats, and ensuring compliance with industry standards.
-
+The objective of this AWS Cyber Security Lab is to design, build, and manage a cloud-based environment to develop and enhance skills in cloud security, incident response, threat detection, cloud architecture and cloud engineering. This lab serves as a platform for practicing real-world scenarios, testing security tools, and gaining hands-on experience with various AWS services and cybersecurity techniques.
 
 
 
