@@ -1,6 +1,6 @@
-## Hi, I'm Kevin Dawson - Welcome to My Cybersecurity Homelab!
+## Hi, I'm Kevin Dawson - Welcome to My Cyber Security GitHub!
 
-I'm Kevin Dawson, a passionate cybersecurity professional dedicated to continuous learning and skill development. Here, you'll find a comprehensive collection of my projects, tools, and configurations as I explore various aspects of network security, system administration, cloud security and incident response. Feel free to browse through my work, and don't hesitate to reach out if you have any questions or suggestions. Let's connect and grow together
+I'm Kevin Dawson, a passionate cybersecurity professional dedicated to continuous learning and skill development. Here, you'll find a comprehensive collection of my projects, tools, and configurations as I explore various aspects of network security, system administration, cloud security and incident response. Feel free to browse through my work, and don't hesitate to reach out if you have any questions or suggestions. Let's connect and grow together. I also post about Tryhackme and other labs and courses I'm working on.
 
 ## 👨‍💻 VMWare Cyber Security Lab
 ### Repository
